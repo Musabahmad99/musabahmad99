@@ -1,6 +1,7 @@
-Welcome to My Github
-# 💫 About Me:
-🔭 I’m currently working on LLMs, AI Agents, Full Stack Web development, RAGs, Automations and Prompt Engineering<br>👯 I’m looking to collaborate on Socials and Upwork<br>🌱 I’m currently learning Agentic AI<br>💬 Ask me about Python, Javascript<br>⚡ Fun fact
+<div align="center">
+<h1>Welcome to My Github!<br></h1>
+<h2 style="font-size-3em;">💫 About Me:<br></h2>
+🔭 I’m currently working on LLMs, AI Agents, Full Stack Web development, RAGs, Automations and Prompt Engineering<br>👯 I’m looking to collaborate on Socials and Upwork<br>🌱 I’m currently learning Agentic AI<br>💬 Ask me about Python, Javascript<br>
 
 
 ## 🌐 Socials:
@@ -18,3 +19,4 @@ Welcome to My Github
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Musabahmad99&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
