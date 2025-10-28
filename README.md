@@ -1,4 +1,11 @@
 <div align="center">
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 <h1>Welcome to My Github!<br></h1>
 <h2 style="font-size-3em;">💫 About Me:<br></h2>
 <b>🧠 Specialized in AI-driven automation, LLMs, AI Agents, Full Stack Web development, RAGs and Prompt Engineering<br>👯 I’m looking to collaborate on Socials and Upwork<br>🌱 I’m currently learning Agentic AI<br>🌍 Passionate about creating impactful AI-first solutions in education, healthcare, and automation domains.<br></b>
