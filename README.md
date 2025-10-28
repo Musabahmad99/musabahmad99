@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Welcome to My Github!<br></h1>
 <h2 style="font-size-3em;">💫 About Me:<br></h2>
-🧠 Specialized in AI-driven automation, LLMs, AI Agents, Full Stack Web development, RAGs, Automations and Prompt Engineering<br>👯 I’m looking to collaborate on Socials and Upwork<br>🌱 I’m currently learning Agentic AI<br>💬 Ask me about Python, Javascript<br>
+<b>🧠 Specialized in AI-driven automation, LLMs, AI Agents, Full Stack Web development, RAGs, Automations and Prompt Engineering<br>👯 I’m looking to collaborate on Socials and Upwork<br>🌱 I’m currently learning Agentic AI<br>💬 Ask me about Python, Javascript<br></b>
 
 
 ## 🌐 Socials:
